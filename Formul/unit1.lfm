@@ -1,0 +1,69 @@
+object Form1: TForm1
+  Left = 553
+  Height = 320
+  Top = 434
+  Width = 634
+  Caption = 'Form1'
+  ClientHeight = 320
+  ClientWidth = 634
+  DesignTimePPI = 120
+  OnCreate = FormCreate
+  LCLVersion = '3.0.0.3'
+  object Label1: TLabel
+    Left = 28
+    Height = 20
+    Top = 51
+    Width = 168
+    Caption = 'Результат функции F(x,y)'
+  end
+  object Label2: TLabel
+    Left = 35
+    Height = 20
+    Top = 106
+    Width = 115
+    Caption = 'Ввод значения x'
+  end
+  object Number: TEdit
+    Left = 168
+    Height = 28
+    Top = 104
+    Width = 111
+    NumbersOnly = True
+    TabOrder = 0
+    Text = '0'
+  end
+  object Ok: TButton
+    Left = 0
+    Height = 34
+    Top = 286
+    Width = 634
+    Align = alBottom
+    Caption = 'Ok'
+    TabOrder = 1
+    OnClick = OkClick
+  end
+  object Label3: TLabel
+    Left = 35
+    Height = 20
+    Top = 147
+    Width = 115
+    Caption = 'Ввод значения y'
+  end
+  object Number2: TEdit
+    Left = 168
+    Height = 28
+    Top = 143
+    Width = 111
+    NumbersOnly = True
+    TabOrder = 2
+    Text = '0'
+  end
+  object Result: TStaticText
+    Left = 218
+    Height = 35
+    Top = 47
+    Width = 249
+    Caption = '0'
+    TabOrder = 3
+  end
+end
