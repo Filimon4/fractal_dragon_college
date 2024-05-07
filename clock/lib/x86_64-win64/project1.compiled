@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="D:\programs\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1469148810"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -XX -WG -l -vewnhibq -FiC:\Users\Efim\Desktop\lazarus_calculator\06\lib\x86_64-win64 -FuD:\programs\lazarus\lcl\units\x86_64-win64\win32 -FuD:\programs\lazarus\lcl\units\x86_64-win64 -FuD:\programs\lazarus\components\freetype\lib\x86_64-win64 -FuD:\programs\lazarus\components\lazutils\lib\x86_64-win64 -FuD:\programs\lazarus\packager\units\x86_64-win64 -FuC:\Users\Efim\Desktop\lazarus_calculator\06\ -FUC:\Users\Efim\Desktop\lazarus_calculator\06\lib\x86_64-win64\ -FEC:\Users\Efim\Desktop\lazarus_calculator\06\ -oC:\Users\Efim\Desktop\lazarus_calculator\06\MyClock.scr -dLCL -dLCLwin32 project1.lpr"/>
-</CONFIG>
