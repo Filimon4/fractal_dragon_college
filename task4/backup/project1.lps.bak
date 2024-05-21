@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="47" Y="23"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="43"/>
+        <CursorPos X="26" Y="48"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="editForm\unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fEdit"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="1"/>
+        <CursorPos X="11"/>
+        <UsageCount Value="22"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fFormEdit"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="editLangForm"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="29"/>
+        <CursorPos X="27" Y="29"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="25">
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="58" Column="52" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="50" Column="12" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="25" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="26" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="25" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="26" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="27" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="26" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="27" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="28" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="29" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="30" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="31" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="32" Column="26" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="65" Column="35" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="67" Column="3" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="77" Column="51" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="66" Column="5" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="74" Column="27" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="52" Column="38" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="87" Column="19" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="94" Column="43" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="27" Column="17" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="..\langEditForm\editlangform.pas"/>
+        <Caret Line="26" Column="17" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="98" Column="26" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="114" Column="32" TopLine="92"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
